@@ -683,7 +683,7 @@ Beginning a program at one of The Northern Lights' facilities across the country
 
     <ul class="DeskFixed">
         <li>
-           <a class="Whatapp" href="#">
+           <a class="Whatapp" href="to:7056671000">
               <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
                  <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
                 c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52

@@ -7,11 +7,11 @@
                         <ul class="top-info">
                             <li class="text-2">
                                 <div class="title text-2">Call Us Now:</div>
-                                <div class=" text-3 fw-6">(705) 667-1000</div>
+                                <div class=" text-3 fw-6"><a href="tel:7056671000">(705) 667-1000 </a></div>
                             </li>
                             <li class="text-2">
                                 <div class="title text-2">Support 24/7:</div>
-                                <div class=" text-3 fw-6"><a href="#">info@thenorthernlights.ca</a></div>
+                                <div class=" text-3 fw-6"><a href="mailto:info@thenorthernlights.ca">info@thenorthernlights.ca</a></div>
                             </li>
                         </ul>
                     </div>
@@ -180,7 +180,7 @@
 
                                             </h6>
                                             <li class="mt-3">
-                                                <a class=" tf-btn style-default btn-color-white has-boder pd-40 sk" href="#">
+                                                <a class=" tf-btn style-default btn-color-white has-boder pd-40 sk" href="tel:7056671000">
                                                     <span>
                                                         (705) 667-1000
                                                     </span>
@@ -304,7 +304,7 @@
                                 </a>
                             </div>
                             <div class="btn-get">
-                                <a class=" tf-btn style-default btn-color-white has-boder pd-40" href="#">
+                                <a class=" tf-btn style-default btn-color-white has-boder pd-40" href="tel:7056671000">
                                     <span>
                                         (705) 667-1000
                                     </span>
