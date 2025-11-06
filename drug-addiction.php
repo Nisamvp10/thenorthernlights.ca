@@ -334,7 +334,11 @@
 
 
 
-</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
+
+</bod>
 
 
 </html>

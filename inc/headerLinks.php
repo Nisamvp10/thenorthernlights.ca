@@ -16,6 +16,7 @@
     <!-- bootstrap -->
     <link rel="stylesheet" type="text/css" href="<?=$baseUrl;?>/css/bootstrap.css" />
     <!-- Animate -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <link rel="stylesheet" type="text/css" href="<?=$baseUrl;?>/css/animate.min.css" />
     <!-- Odometer -->
     <link rel="stylesheet" type="text/css" href="<?=$baseUrl;?>/css/odometer.min.css" />

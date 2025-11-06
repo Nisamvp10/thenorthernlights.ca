@@ -221,19 +221,20 @@
         </div>
         <div class="modal-body">
 
-            <form class="form-consultation"
-            id="contactform" action="#">
+            <form class="form-consultation" id="contactConsultation" action="#">
             <fieldset class="name">
-                <input type="text" name="name" class="tf-input style-1" placeholder="Your Name*" tabindex="2"
+                <input type="text" name="name" class="tf-input style-1" placeholder="Your Name*"  id="name" tabindex="2"
                     aria-required="true" required>
+                    <span class="invalid-feedback" id="name_error"></span>
             </fieldset>
             <fieldset class="phone">
-                <input type="number" name="phone" class="tf-input style-1" placeholder="Phone Number" tabindex="2"
+                <input type="number" name="phone" class="tf-input style-1" placeholder="Phone Number" id="phone"  tabindex="2"
                     aria-required="true" required>
+                    <span class="invalid-feedback" id="phone_error"></span>
             </fieldset>
             <div class="select-custom mb-20">
-                <select id="service" data-default="" name="select">
-                    <option value="---">Choose Services</option>
+                <select class="" data-default="" name="mservice" id="mservice" >
+                    <option value="">Choose Services</option>
                     <option value="Individual Counseling">Individual Counseling</option>
                     <option value="Family Therapy">Family Therapy</option>
                     <option value="Couples Therapy">Couples Therapy</option>
@@ -242,12 +243,14 @@
                     </option>
                     <option value="Trauma Counseling">Trauma Counseling</option>
                 </select>
+                <span class="invalid-feedback" id="mservice_error"></span>
             </div>
             <fieldset class="message">
-                <textarea id="message" class="tf-input" name="message" rows="4" placeholder="Your mesage" tabindex="4"
+                <textarea  class="tf-input" name="mmessage" rows="4" id="mmessage"  placeholder="Your mesage" tabindex="4"
                     aria-required="true" required></textarea>
+                    <span class="invalid-feedback" id="mmessage_error"></span>
             </fieldset>
-            <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" type="submit">
+            <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" type="submit" id="submitBtn">
                 <span>
                     Submit
                 </span>

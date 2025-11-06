@@ -117,51 +117,7 @@
 
 
     <!-- mobile-nav -->
-    <div class="offcanvas offcanvas-start mobile-nav-wrap " tabindex="-1" id="menu-mobile" aria-labelledby="menu-mobile">
-        <div class="offcanvas-header top-nav-mobile">
-            
-            <div data-bs-dismiss="offcanvas" aria-label="Close">
-                <i class="icon-close"></i>
-            </div>
-        </div>
-        <div class="offcanvas-body inner-mobile-nav">
-            <div class="mb-body">
-                <ul id="menu-mobile-menu">
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile "> Home</a>
-                    </li>
-
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">Getting Started</a>
-                    </li>
-                 
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">What We Treat
-                        </a>
-                    </li>
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">I’m Looking for
-                                        
-                        </a>
-                    </li>
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">Who We Are 
-
-                                        
-                        </a>
-                    </li>
-                    
-                </ul>
-                <div class="support">
-                    <a href="#" class="text-need"> Need help?</a>
-                    <ul class="mb-info">
-                        <li>Call Us Now: <span class="number">(705) 667-1000</span></li>
-                        <li>Support 24/7: <a href="#">info@thenorthernlights.ca</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- /.mobile-nav -->
+    
 
     <!-- .open-search -->
     <div class="offcanvas offcanvas-top offcanvas-search" id="canvasSearch">
@@ -328,7 +284,11 @@
 
 
 
-</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
+
+</bod>
 
 
 </html>
