@@ -235,32 +235,32 @@
 
                                         </a>
                                         <ul class="sub-menu">
-                                            <li>
-                                                <a href="#">Myself</a>
+                                           <li>
+                                                <a href="individuals.php">Myself</a>
                                             </li>
                                             <li>
-                                                <a href="#"> Loved One</a>
+                                                <a href="love.php"> Loved One</a>
                                             </li>
                                             <li>
-                                                <a href="#">Patient</a>
+                                                <a href="patient.php">Patient</a>
                                             </li>
                                             <li>
-                                                <a href="#">Employee</a>
+                                                <a href="employee.php">Employee</a>
                                             </li>
                                             <li>
-                                                <a href="#">Military Member</a>
+                                                <a href="military.php">Military Member</a>
                                             </li>
                                             <li>
-                                                <a href="#">Veteran</a>
+                                                <a href="veteran.php">Veteran</a>
                                             </li>
                                             <li>
-                                                <a href="#">RCMP Member</a>
+                                                <a href="rcmp.php">RCMP Member</a>
                                             </li>
                                             <li>
-                                                <a href="#">IAFF Member</a>
+                                                <a href="iaff.php">IAFF Member</a>
                                             </li>
                                             <li>
-                                                <a href="#">First Responders</a>
+                                                <a href="first.php">First Responders</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -297,7 +297,7 @@
                         <div class="header-right">
                          
                             <div class="btn-get">
-                                <a class="tf-btn style-default btn-color-secondary pd-40" href="#">
+                                <a class="tf-btn style-default btn-color-secondary pd-40" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                     <span>
                                         Admit Someone
                                     </span>

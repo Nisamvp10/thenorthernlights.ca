@@ -4479,9 +4479,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .modal-content {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+
 }
 
 .color-item {
@@ -7047,7 +7045,7 @@ input[value=theme-dark] + label {
   display: -webkit-flex;
   display: flex;
   justify-content: space-between;
-  background-color: var(--White);
+  background-color:var(--Color-1);
   border-radius: 20px;
   gap: 20px;
   overflow: hidden;
@@ -7185,9 +7183,7 @@ input[value=theme-dark] + label {
 }
 
 .modal-content {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+
 }
 
 .color-item {
@@ -7259,7 +7255,7 @@ input[value=theme-dark] + label {
     margin-right: 12px;
   }
   .section-book-appointment .form-appointment {
-    margin-left: 80px;
+    margin-right: 80px;
   }
   #footer.style-2 .footer-main .footer-menu-list:nth-child(3) {
     padding-right: 38px;
@@ -8648,6 +8644,32 @@ input[value=theme-dark] + label {
 
   gap: 3px;
   row-gap: 5px;
+}
+
+#header-main .header-right{
+  display: none!important;
+}
+
+#header-main.style-1 .header-left .header-logo img {
+  width: 137px;
+}
+.tf-top-bar.style-has-logo{
+  display: none;
+}
+
+#header-main .header-inner-wrap .header-logo {
+  padding: 10px 0;
+  margin-left: 0px !important;
+
+}
+
+#header-main .header-inner-wrap {
+
+  flex-flow: row-reverse;
+}
+#header-main.style-1 .header-inner-wrap .mobile-button {
+
+  text-align: right;
 }
 
 }

@@ -794,6 +794,68 @@ Beginning a program at one of The Northern Lights' facilities across the country
      </div>
 
 
+     
+ <!-- Modal -->
+ <div class="modal fade" id="welcomeModal" tabindex="-1" aria-labelledby="welcomeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Get A  Consultation
+          </h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+  
+              <form class="form-consultation"
+              id="contactform" action="#">
+              <fieldset class="name">
+                  <input type="text" name="name" class="tf-input style-1" placeholder="Your Name*" tabindex="2"
+                      aria-required="true" required>
+              </fieldset>
+              <fieldset class="phone">
+                  <input type="number" name="phone" class="tf-input style-1" placeholder="Phone Number" tabindex="2"
+                      aria-required="true" required>
+              </fieldset>
+              <div class="select-custom mb-20">
+                  <select id="service" data-default="" name="select">
+                      <option value="---">Choose Services</option>
+                      <option value="Individual Counseling">Individual Counseling</option>
+                      <option value="Family Therapy">Family Therapy</option>
+                      <option value="Couples Therapy">Couples Therapy</option>
+                      <option value="Group Therapy">Group Therapy</option>
+                      <option value="Child & Adolescent Therapy">Child & Adolescent Therapy
+                      </option>
+                      <option value="Trauma Counseling">Trauma Counseling</option>
+                  </select>
+              </div>
+              <fieldset class="message">
+                  <textarea id="message" class="tf-input" name="message" rows="4" placeholder="Your mesage" tabindex="4"
+                      aria-required="true" required></textarea>
+              </fieldset>
+              <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" type="submit">
+                  <span>
+                      Submit
+                  </span>
+              </button>
+          </form>
+      
+      </div>
+         
+        </div>
+      </div>
+  </div>
+
+  <script>
+ document.addEventListener('DOMContentLoaded', function () {
+  if (!localStorage.getItem('welcomeModalShown')) {
+    const myModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
+    setTimeout(function () {
+      myModal.show();
+      localStorage.setItem('welcomeModalShown', 'true');
+    }, 5000);
+  }
+});
+  </script>
 </body>
 
 
