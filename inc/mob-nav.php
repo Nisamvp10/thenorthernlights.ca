@@ -162,19 +162,19 @@
                         <div id="dropdown-menu-two3" class="collapse" data-bs-parent="#menu-mobile-menu">
                             <ul class="sub-mobile">
                                 <li class="menu-item">
-                                    <a href="about.html">About Us
+                                    <a href="about.php">About Us
                                     </a>
                                 
                                 </li>
                                 <li class="menu-item">
 
-                                    <a href="whowehelp.html"> Who We Help</a>
+                                    <a href="whowehelp.php"> Who We Help</a>
                                 
                                 </li>
 
                                 <li class="menu-item">
 
-                                    <a href="whatwetreat.html">What We Treat</a>                                
+                                    <a href="whatwetreat.php">What We Treat</a>                                
                                 </li>
                             </ul>
                         </div>
