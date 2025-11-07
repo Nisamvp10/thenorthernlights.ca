@@ -243,7 +243,50 @@
                     </option>
                     <option value="Trauma Counseling">Trauma Counseling</option>
                 </select>
-                <span class="invalid-feedback" id="mservice_error"></span>
+                <div class="service-siderbar sticky">
+    <form class="form-consultation" id="consultationForm">
+                                        <h5 class="mb-16">Get A  Consultation</h5>
+                                        <fieldset class="name">
+                                            <input type="text" class="tf-input style-1" placeholder="Your Name*" tabindex="2" aria-required="true" name="name" required="">
+                                            <span class="invalid-feedback" id="name_error"></span>
+                                        </fieldset>
+                                        <fieldset class="phone">
+                                            <input type="number" class="tf-input style-1" placeholder="Phone Number" tabindex="2" aria-required="true" name="phone" required="">
+                                            <span class="invalid-feedback" id="phone_error"></span>
+                                        </fieldset>
+                                        <div class="select-custom mb-20">
+                                            <select id="service" data-default="" name="select">
+                                                <option value="">Choose Services</option>
+                                                    <option value="Individual Counseling">Individual Counseling</option>
+                                                    <option value="Family Therapy">Family Therapy</option>
+                                                    <option value="Couples Therapy">Couples Therapy</option>
+                                                    <option value="Group Therapy">Group Therapy</option>
+                                                    <option value="Child & Adolescent Therapy">Child & Adolescent Therapy
+                                                </option>
+                                            </select>
+                                            <span class="invalid-feedback" id="service_error"></span>
+                                        </div>
+                                        <fieldset>
+                                            <textarea id="message" class="tf-input" name="message" rows="4" placeholder="Your mesage" tabindex="4" aria-required="true" required=""></textarea>
+                                            <span class="invalid-feedback" id="message_error"></span>
+                                        </fieldset>
+                                        <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" id="submitBtn" type="submit">
+                                            <span>
+                                                Submit
+                                            </span>
+                                        </button>
+                                        <div class="info">
+                                            <h5>Infomation</h5>
+                                            <ul class="list-info">
+                                                <li><i class="icon-Envelope"></i> <a href="#">info@thenorthernlights.ca</a></li>
+                                                <li><i class="icon-PhoneCall"></i> (705) 667-1000</li>
+                                                <li><i class="icon-MapPin"></i> Muskoka Lakes, Ontario, Canada
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </form>
+
+</div>
             </div>
             <fieldset class="message">
                 <textarea  class="tf-input" name="mmessage" rows="4" id="mmessage"  placeholder="Your mesage" tabindex="4"
