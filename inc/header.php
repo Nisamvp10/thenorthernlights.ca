@@ -188,7 +188,7 @@
 
                                             </li>
                                             <li class="mt-3">
-                                                <a class="tf-btn style-default btn-color-secondary pd-40 sk" href="#">
+                                                <a class="tf-btn style-default btn-color-secondary pd-40 sk" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                     <span>
                                                         Book An Appoinment
                                                     </span>
@@ -291,7 +291,7 @@
                         <div class="header-right">
                          
                             <div class="btn-get">
-                                <a class="tf-btn style-default btn-color-secondary pd-40" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                <a class="tf-btn style-default btn-color-secondary pd-40" href="admissions.php">
                                     <span>
                                         Admit Someone
                                     </span>

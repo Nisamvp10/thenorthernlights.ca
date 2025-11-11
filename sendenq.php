@@ -35,7 +35,7 @@ $message .= "<p><strong>" . ucfirst('Message') . ":</strong> " . htmlspecialchar
     $mail->Host       = 'smtp.gmail.com';      
     $mail->SMTPAuth   = true;                  
     $mail->Username   = 'mail.thenorthernlights@gmail.com';
-    $mail->Password   = 'fiubevpcxbclzulp';
+    $mail->Password   = 'bpvxwincosaddlkb';
     $mail->SMTPSecure = 'tls';                 
     $mail->Port       = 587;                   
 

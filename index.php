@@ -1,10 +1,26 @@
 <?php  include('inc/headerLinks.php') ;?>
+<style>
+
+
+
+</style>
 
         <!-- .page-title -->
         <div class="page-title-homepage-1">
-            <video playsinline autoplay muted loop class="page-video">
+            <!-- <video playsinline autoplay muted loop class="page-video">
                 <source src="video/video-page-title.mp4" type="video/mp4">
-            </video>
+            </video> -->
+
+            <div class="video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/yxaizsjRzEA?autoplay=1&mute=1&loop=1&playlist=yxaizsjRzEA&controls=0&modestbranding=1&rel=0&showinfo=0"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+    </iframe>
+</div>
+
+
           
         </div><!-- /.page-title -->
 
@@ -25,17 +41,14 @@
                                 <div class="box-about">
                                    
                                     <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                            About Northern Lights</p>
-                                        <h3>Luxury Private Rehab & Sober Living in Canada
-                                        </h3>
+                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">About Northern Lights</p>
+                                        <h3>Luxury Private Rehab & Sober Living in Canada</h3>
                                         <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
                                             At Northern Lights, we recognize that each person's path to recovery is distinct. Our all-encompassing treatment programs are tailored to meet the varied needs of our clients, equipping them with the essential resources to attain enduring sobriety and mental health. Through compassionate support and evidence-based therapies, we lead you or your loved one towards a healthier, addiction-free existence.
                                             Our luxury rehabilitation program in The Nothern Lights provides a private and serene environment for individuals seeking comprehensive treatment for addiction. With comfortable private rooms and top-notch amenities, our facility is designed to support your recovery journey.
                                             
                                             
-                                        </p
-                                        
+                                        </p>
                                         
                                     </div>
                                     <a class="tf-btn  style-default btn-color-white has-boder pd-26 wow fadeInUp" data-wow-duration="1000"
