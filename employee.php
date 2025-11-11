@@ -27,7 +27,7 @@
                             <div class="row ">
                                 <div class="col-md-5">
                                     <div class="image-wrap  wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w1.png" src="images/w1.png" alt="">
+                                        <img class="lazyload" data-src="images/emp.png" src="images/emp.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-7">
@@ -35,11 +35,11 @@
                                       
                                         <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
                                           
-                                            <h3>Overcoming Addiction and Mental Health Challenges
+                                            <h3>Assist Your Staff in Getting Addiction and Mental Health Treatment
 
                                             </h3>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">With a team of
-                                                At EHN Canada, we understand the profound impact that addiction and mental health challenges can have on families. Watching someone you love struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to support families like yours every step of the way, providing the guidance, resources, and care needed to help your loved one take the first step toward recovery.
+                                                Did you know that poor mental health causes five lakh Canadians to miss work each week? Employee morale and productivity may suffer when they experience addiction, depression, or trauma. These repercussions can occasionally be fatal. There might be a limit to how far your staff can advance without medical assistance, even if you've tried everything. Additionally, people occasionally require an immersive, distraction-free setting in order to make significant progress, particularly if they deal with triggers at work.
 
                                             </p>
                                         
@@ -73,17 +73,13 @@
                                         </div>
                                         <ul class="list-info">
                                             <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-Envelope"></i> <a
-                                                    href="#">themesflat@gmail.com</a></li>
+                                                    href="#">info@thenorthernlights.ca</a></li>
                                             <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i
-                                                    class="icon-PhoneCall"></i>1-333-345-6868</li>
-                                            <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-MapPin"></i>101 E 129th
-                                                St, East Chicago, IN 46312, US
+                                                    class="icon-PhoneCall"></i>(705) 667-1000</li>
+                                            <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-MapPin"></i>Muskoka Lakes, Ontario, Canada
                                             </li>
                                         </ul>
-                                        <a href="contact-us.php" class="tf-btn-link z-5 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                            <span data-text="Open map">Open map</span>
-                                            <i class="icon-ArrowRight"></i>
-                                        </a>
+                                        
                                     </div>
     
                                     <form class="form-consultation" id="getconsultationForm">
@@ -148,8 +144,13 @@
                                             </h3>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
                                                 data-wow-delay="0s">
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
+                                                How We Can Assist
+
+The treatment facilities at Northern Lights have over a century of combined experience assisting individuals in recovering from addiction and mental disorders. We encourage businesses to contact us through our corporate partner program in order to assist employees who are in need.
+
+In addition to enhancing the lives of their workers, our corporate partners save money by rehabilitating staff members rather than recruiting and onboarding new ones.
+
+In addition to treating addiction, we are well-known for our treatment programs for first responders, veterans, and members of the armed forces. From coast to coast, we provide inpatient and outpatient facilities as well as online treatment programs to make care accessible. In order to help your employees maintain their progress when they return to work, we also provide aftercare and family support. 
 
                                            
                                             </p>
@@ -182,26 +183,15 @@
                                         <div class="widget-content-inner active">
                                             <div class="box-service">
                                                 <div class="image-wrap wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                                    <img class="lazyload" data-src="images/section/section-service.jpg"
-                                                        src="images/section/section-service.jpg" alt="">
+                                                    <img class="lazyload" data-src="images/section/tnl.jpg"
+                                                        src="images/section/tnl.jpg" alt="">
                                                 </div>
                                                 <div class="content">
                                                     <div class="heading-section text-start ">
-                                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Family Therapy</p>
+                                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">corporate Partner</p>
                                                         <h4 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><a
-                                                                href="#">Experienced
-                                                                Therapists Dedicated To
-                                                                Your Family’s Emotional
-                                                                Well-Being.</a></h4>
-                                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">At
-                                                            Healingy, our
-                                                            licensed
-                                                            therapists
-                                                            specialize in customized family therapy, helping families
-                                                            address conflicts, enhance communication, and build deeper
-                                                            connections. We equip your family with the tools and guidance
-                                                            needed to navigate challenges and create a balanced, supportive
-                                                            home environment.
+                                                                href="#">Employees Access Addiction.</a></h4>
+                                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Access to addiction and mental health treatment for employees is a critical aspect of workplace wellness programs. Employers play a significant role in facilitating access to such services, which can enhance employee productivity and overall organizational health. Effective programs often include confidential support services, resources for recovery, and awareness initiatives to reduce stigma surrounding mental health issues. Providing these services not only benefits employees but can also lead to improved morale, reduced absenteeism, and greater workplace cohesion.
                                                         </p>
                                                     </div>
                                                     <a href="#" class="tf-btn-link z-5 wow fadeInUp" data-wow-duration="1000"

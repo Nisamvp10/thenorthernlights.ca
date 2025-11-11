@@ -31,18 +31,18 @@ $message .= "<p><strong>" . ucfirst('Message') . ":</strong> " . htmlspecialchar
 
     $name = $_POST['name'];
     // Server settings
-    $mail->isSMTP();                           
+   $mail->isSMTP();                           
     $mail->Host       = 'smtp.gmail.com';      
     $mail->SMTPAuth   = true;                  
-    $mail->Username   = 'vinsafesolution@gmail.com';
-    $mail->Password   = 'fggjklolygaahlwj';
+    $mail->Username   = 'mail.thenorthernlights@gmail.com';
+    $mail->Password   = 'fiubevpcxbclzulp';
     $mail->SMTPSecure = 'tls';                 
     $mail->Port       = 587;                   
 
     // Recipients
-    $mail->setFrom('diary536@gmail.com', 'Thenorthernlights Web');
+    $mail->setFrom('mail.thenorthernlights@gmail.com', 'Thenorthernlights Web');
     $mail->addAddress('nisamvp10@gmail.com', $name);
-    $mail->addReplyTo('nisamvp10@gmail.com', 'Information');
+    $mail->addReplyTo('mail.thenorthernlights@gmail.com', 'Information');
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML

@@ -27,7 +27,7 @@
                             <div class="row ">
                                 <div class="col-md-5">
                                     <div class="image-wrap  wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w1.png" src="images/w1.png" alt="">
+                                        <img class="lazyload" data-src="images/mil.png" src="images/mil.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-7">
@@ -35,11 +35,12 @@
                                       
                                         <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
                                           
-                                            <h3>Overcoming Addiction and Mental Health Challenges
+                                            <h4>Programs for Mental Health, Addiction, and Trauma Only for CAF and Veterans
+                                            
+                                            <h3>A Healing Environment Free from Judgment </h3>
 
                                             </h3>
-                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">With a team of
-                                                At EHN Canada, we understand the profound impact that addiction and mental health challenges can have on families. Watching someone you love struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to support families like yours every step of the way, providing the guidance, resources, and care needed to help your loved one take the first step toward recovery.
+                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">You have served your nation. We are now here to assist you. For veterans and military personnel only, EHN Canada provides trauma-informed treatment programs. As we assist you in acquiring the skills necessary to lay the groundwork for a successful, long-lasting recovery, we consider your military experience. Your particular challenges, such as moral injury, occupational stress injury (OSI), and any related substance use disorders, are addressed by our evidence-based treatments.
 
                                             </p>
                                         
@@ -64,12 +65,15 @@
                                      
                                         <div class="heading-section text-start ">
                                          
-                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Why Families Trust EHN Canada
+                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">How We Aid in the Recovery of Veterans and the Military
+
 
                                             </h3>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
                                                 data-wow-delay="0s">
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
+                                                On your journey, an interprofessional clinical team provides trauma-informed treatment using evidence-based approaches like cognitive behavioural therapy (CBT), dialectical behaviour therapy (DBT), and cognitive processing therapy (CPT) to assist with PTSD, addiction, and related mental health issues. 
+                                                </br>
+                                                You become a part of the community of first responders and other service members who are sympathetic to your situation while you are receiving treatment. 
                                             </p>
                                         </div>
                                        

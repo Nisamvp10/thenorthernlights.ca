@@ -178,9 +178,9 @@ Beginning a program at one of The Northern Lights' facilities across the country
                                     data-wow-delay="0s">
                                     <div class="content z-5">
                                         <h5 class="title">
-                                            <a href="#"> Cocaine addiction</a>
+                                            <a href="#"> Obsessive Compulsive Disorders</a>
                                         </h5>
-                                        <p>The Northern Lights offers individualized virtual and inpatient programs that promote long-term recovery from cocaine addiction.</p>
+                                        <p>The Northern Lights offers individualized  and inpatient programs that promote long-term recovery from Obsessive Compulsive Disorders.</p>
                                     </div>
                                     <div class="image-wrap z-5 relative">
                                         <a href="#">
@@ -217,9 +217,9 @@ Beginning a program at one of The Northern Lights' facilities across the country
                                     data-wow-delay="0.2s">
                                     <div class="content z-5">
                                         <h5 class="title">
-                                            <a href="#">Methamphetamine </a>
+                                            <a href="#">Codependency</a>
                                         </h5>
-                                        <p>Evidence-based methamphetamine addiction treatment is provided by The Northern Lights, along with structured recovery support, therapy, and medical care.</p>
+                                        <p>Evidence-basedCodependency treatment is provided by The Northern Lights, along with structured recovery support, therapy, and medical care.</p>
                                     </div>
                                     <div class="image-wrap z-5 relative">
                                         <a href="#">

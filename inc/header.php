@@ -253,13 +253,7 @@
                                             <li>
                                                 <a href="veteran.php">Veteran</a>
                                             </li>
-                                            <li>
-                                                <a href="rcmp.php">RCMP Member</a>
-                                            </li>
-                                            <li>
-                                                <a href="iaff.php">IAFF Member</a>
-                                            </li>
-                                            <li>
+                                            
                                                 <a href="first.php">First Responders</a>
                                             </li>
                                         </ul>

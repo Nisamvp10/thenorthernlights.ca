@@ -35,11 +35,14 @@
                                       
                                         <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
                                           
-                                            <h3>Overcoming Addiction and Mental Health Challenges
+                                            <h3>First Responder's Mental Health Treatments
 
                                             </h3>
+                                            
+                                            
+                                            <p>It can be detrimental to your mental health to be the first on the scene. We provide treatment plans specifically designed to meet the unique requirements of first responders.</p>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">With a team of
-                                                At EHN Canada, we understand the profound impact that addiction and mental health challenges can have on families. Watching someone you love struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to support families like yours every step of the way, providing the guidance, resources, and care needed to help your loved one take the first step toward recovery.
+                                                As a first responder, you have seen things that are unimaginable to most people. You are susceptible to life-altering battles with addiction, depression, and anxiety because of the trauma you've endured at work. You might be expected to return to work and deal with your triggers on a daily basis even though you are dealing with trauma.
 
                                             </p>
                                         
@@ -64,12 +67,14 @@
                                      
                                         <div class="heading-section text-start ">
                                          
-                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Why Families Trust EHN Canada
+                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">First Responders' Specialized Trauma Therapy
 
                                             </h3>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
                                                 data-wow-delay="0s">
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
+                                               The Northern Lights provides mental health services designed specifically for first responders. We help you build the skills necessary to lay the foundation for a long and healthy life by taking into account the difficulties of your line of work.  You become a part of a group of first responders and military personnel who are sympathetic to your situation while you are receiving treatment. Together with your close-knit group, you develop and learn.
+
+We provide Cognitive Processing Therapy (CPT) to patients who are experiencing the aftereffects of trauma. This kind of therapy works well for lowering PTSD symptoms, enhancing emotional control, boosting resilience, and enhancing quality of life. 
                                             </p>
                                         </div>
                                        

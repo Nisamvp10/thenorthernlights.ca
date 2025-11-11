@@ -27,7 +27,7 @@
                             <div class="row ">
                                 <div class="col-md-5">
                                     <div class="image-wrap  wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w1.png" src="images/w1.png" alt="">
+                                        <img class="lazyload" data-src="images/love.png" src="images/love.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-7">
@@ -35,11 +35,13 @@
                                       
                                         <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
                                           
-                                            <h3>Overcoming Addiction and Mental Health Challenges
+                                            <h4>Assist your loved one in seeking treatment.
+
+                                            </h4>
+                                            <h2>Overcoming Addiction and Mental Health Challenges.
 
                                             </h3>
-                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">With a team of
-                                                At EHN Canada, we understand the profound impact that addiction and mental health challenges can have on families. Watching someone you love struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to support families like yours every step of the way, providing the guidance, resources, and care needed to help your loved one take the first step toward recovery.
+                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">At The Northern Lights, we acknowledge the profound impact that addiction and mental health issues can have on families. Watching someone you care about struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to help families like yours every step of the way, providing the guidance, resources, and care required to help your loved one take the first step toward recovery. 
 
                                             </p>
                                         
@@ -73,15 +75,14 @@
                                         </div>
                                         <ul class="list-info">
                                             <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-Envelope"></i> <a
-                                                    href="#">themesflat@gmail.com</a></li>
+                                                    href="#">info@thenorthernlights.ca</a></li>
                                             <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i
-                                                    class="icon-PhoneCall"></i>1-333-345-6868</li>
-                                            <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-MapPin"></i>101 E 129th
-                                                St, East Chicago, IN 46312, US
+                                                    class="icon-PhoneCall"></i>(705) 667-1000</li>
+                                            <li class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-MapPin"></i>Muskoka Lakes, Ontario, Canada
                                             </li>
                                         </ul>
                                         <a href="contact-us.html" class="tf-btn-link z-5 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                            <span data-text="Open map">Open map</span>
+                                            
                                             <i class="icon-ArrowRight"></i>
                                         </a>
                                     </div>
@@ -143,13 +144,16 @@
                                      
                                         <div class="heading-section text-start ">
                                          
-                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Why Families Trust EHN Canada
+                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Leading the Way for Your Recovery
 
                                             </h3>
                                             <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
                                                 data-wow-delay="0s">
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
+                                                It can be difficult to get a loved one into treatment. The knowledgeable staff at EHN Canada is available to assist you, regardless of whether your loved one is unwilling to accept assistance or is unsure of where to begin. Since every family's circumstances are different, we provide you with individualized support. <br>
+                                                
+                                                You don't have to handle the process by yourself, no matter how difficult or complicated it may appear. Our staff is here to make the process easier, less stressful, and help your family find a workable solution. </br>
+                                                
+                                                It can be intimidating to assist a loved one in beginning their recovery journey, but it's a choice that transforms lives. Allow us to assist you in achieving that change. Get in touch with one of our sympathetic staff members at The Northern Lights right now to find out how we can help your family.
 
                                            
                                             </p>
@@ -160,8 +164,8 @@
                                 <div class="col-md-5">
                                     <div class="image-wrap wow fadeInRight effec-overlay" data-wow-duration="1000"
                                         data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w2.png"
-                                            src="images/w2.png" alt="">
+                                        <img class="lazyload" data-src="images/love-1.png"
+                                            src="images/love.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -182,8 +186,8 @@
                                         <div class="widget-content-inner active">
                                             <div class="box-service">
                                                 <div class="image-wrap wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                                    <img class="lazyload" data-src="images/section/section-service.jpg"
-                                                        src="images/section/section-service.jpg" alt="">
+                                                    <img class="lazyload" data-src="images/section/love.jpg"
+                                                        src="images/section/love.jpg" alt="">
                                                 </div>
                                                 <div class="content">
                                                     <div class="heading-section text-start ">
@@ -193,20 +197,12 @@
                                                                 Therapists Dedicated To
                                                                 Your Family’s Emotional
                                                                 Well-Being.</a></h4>
-                                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">At
-                                                            Healingy, our
-                                                            licensed
-                                                            therapists
-                                                            specialize in customized family therapy, helping families
-                                                            address conflicts, enhance communication, and build deeper
-                                                            connections. We equip your family with the tools and guidance
-                                                            needed to navigate challenges and create a balanced, supportive
-                                                            home environment.
+                                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Our licensed therapists at Healingy specialize in individualized family therapy, assisting families in resolving disputes, improving communication, and forging closer bonds. We give your family the resources and direction they need to overcome obstacles and establish a harmonious, encouraging home environment.
                                                         </p>
                                                     </div>
-                                                    <a href="blog-details.html" class="tf-btn-link z-5 wow fadeInUp" data-wow-duration="1000"
+                                                    <a href="#" class="tf-btn-link z-5 wow fadeInUp" data-wow-duration="1000"
                                                         data-wow-delay="0s">
-                                                        <span data-text="Read More">Read More</span>
+                                                        <span data-text="Read More">Book Now</span>
                                                         <i class="icon-ArrowRight"></i>
                                                     </a>
                                                 </div>
@@ -242,9 +238,7 @@
                                                 "></i>
                                             </div>
                                         </div>
-                                        <p>We create customized treatment plans tailored to your unique needs and goals,
-                                            ensuring an
-                                            approach that aligns with your personal journey toward healing and growth.</p>
+                                        <p>We create customized treatment plans tailored to your unique needs and goals, ensuring an approach that aligns with your personal journey toward healing and growth.</p>
                                     </div>
                                     <div class="icons-box effec-icon wow fadeInUp" data-wow-duration="1000" data-wow-delay="0.1s">
                                         <div class="heading">
@@ -255,9 +249,7 @@
                                                 "></i>
                                             </div>
                                         </div>
-                                        <p>Our therapists offer extensive training & diverse expertise in various
-                                            techniques, providing top-quality care and effective strategies tailored to your
-                                            needs.</p>
+                                        <p>Our therapists provide excellent care and successful strategies catered to your needs thanks to their extensive training and varied expertise in a variety of techniques.</p>
                                     </div>
                                     <div class="icons-box effec-icon wow fadeInUp" data-wow-duration="1000" data-wow-delay="0.2s">
                                         <div class="heading">
@@ -268,8 +260,7 @@
                                                 "></i>
                                             </div>
                                         </div>
-                                        <p>We offer a safe, compassionate space where you can feel comfortable and supported
-                                            throughout your healing process, fostering positive and lasting change."</p>
+                                        <p>We provide a secure, caring environment where you can feel at ease and supported during your recovery process, encouraging constructive and long-lasting change.</p>
                                     </div>
                                 </div>
                             </div>
