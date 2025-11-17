@@ -119,7 +119,7 @@
                                 </div>
 
                                 <div class="cols">
-                                    <p class="text-2">By checking this box, you consent to receive electronic marketing messages from EHN Canada. You can unsubscribe at any time. </p>
+                                    <p class="text-2">By checking this box, you consent to receive electronic marketing messages from The Northern Lights. You can unsubscribe at any time. </p>
                                 <div class=" radio-item collapsed" id="headingOne">
                                     <label class="fw-6 text-3 form-check-label" for="creditCard-1">
                                         <input type="checkbox" class="tf-radio check-payment" id="creditCard-1" name="paymentMethod" checked="">

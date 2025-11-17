@@ -1,0 +1,832 @@
+<?php  include('inc/headerLinks.php') ;?>
+<style>
+
+
+
+</style>
+
+        <!-- .page-title -->
+        <div class="page-title-homepage-1">
+            <!-- <video playsinline autoplay muted loop class="page-video">
+                <source src="video/video-page-title.mp4" type="video/mp4">
+            </video> -->
+
+            <div class="video-wrapper">
+    <iframe 
+        src="https://www.youtube.com/embed/yxaizsjRzEA?autoplay=1&mute=1&loop=1&playlist=yxaizsjRzEA&controls=0&modestbranding=1&rel=0&showinfo=0"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen>
+    </iframe>
+</div>
+
+
+          
+        </div><!-- /.page-title -->
+
+        <!-- .main-content -->
+        <div class="main-content">
+
+              
+            <div class="section-box-about page-home-2">
+                <div class="tf-container">
+                    <div class="wrap-box-about">
+                        <div class="row ">
+                            <div class="col-md-6">
+                                <div class="image-wrap  wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
+                                    <img class="lazyload" data-src="images/section/section-about.jpg" src="images/section/section-about.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 ">
+                                <div class="box-about">
+                                   
+                                    <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">About Northern Lights</p>
+                                        <h3>Luxury Private Rehab & Sober Living in Canada</h3>
+                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                            At Northern Lights, we recognize that each person's path to recovery is distinct. Our all-encompassing treatment programs are tailored to meet the varied needs of our clients, equipping them with the essential resources to attain enduring sobriety and mental health. Through compassionate support and evidence-based therapies, we lead you or your loved one towards a healthier, addiction-free existence.
+                                            Our luxury rehabilitation program in The Nothern Lights provides a private and serene environment for individuals seeking comprehensive treatment for addiction. With comfortable private rooms and top-notch amenities, our facility is designed to support your recovery journey.
+                                            
+                                            
+                                        </p>
+                                        
+                                    </div>
+                                    <a class="tf-btn  style-default btn-color-white has-boder pd-26 wow fadeInUp" data-wow-duration="1000"
+                                        data-wow-delay="0s" href="#">
+                                        <span>Learn More About Us</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- /.section-box-about -->
+
+            <!-- .section-benefits -->
+            <div class="section-benefits tf-spacing-1">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-md-6 ">
+                            <div class="box-benefits">
+                                <div class="heading-section text-start">
+                                    <p class="text-2 sub wow fadeInUp" data-wow-duration="1000">Why Choose Us</p>
+                                    <h3 class="wow fadeInUp" data-wow-duration="1000">Why Should choose Us for The Treatment?</h3>
+                                    <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000">We are
+                                    
+Each phase of your rehabilitation at The Northern Lights is overseen by licensed medical practitioners who are clinically educated.
+Beginning a program at one of The Northern Lights' facilities across the country qualifies you to:
+
+                                    </p>
+                                </div>
+                                <ul class="list-check">
+                                    <li class="wow fadeInUp" data-wow-duration="1000">
+                                        <p>All-encompassing care for trauma, depression, anxiety, substance abuse, addiction, and more
+                                        </p>
+                                    </li>
+                                    <li class="wow fadeInUp" data-wow-duration="1000">
+                                        <p>Inpatient programs provide round-the-clock access to medical professionals.
+                                        </p>
+                                    </li>
+                                    <li class="wow fadeInUp" data-wow-duration="1000">
+                                        <p>Innovative online therapy and evidence-based treatment
+                                        </p>
+                                    </li>
+                                </ul>
+                                <a class="tf-btn  style-default btn-color-white has-boder pd-26 wow fadeInUp" data-wow-duration="1000"
+                                    href="#">
+                                    <span>Contact Us Now</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 ">
+                            <div class="image-wrap wow fadeInRight effec-overlay" data-wow-duration="1000">
+                                <img class="lazyload" data-src="images/section/section-benefit.jpg" src="images/section/section-benefit.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- /.section-benefits -->
+
+            <section class="section-service tf-spacing-1">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="wrap-heading">
+                                <div class="heading-section text-start">
+                                    <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">What
+                                        We Do</p>
+                                    <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">What We Treat
+                                        Services</h3>
+                                    <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
+                                        data-wow-delay="0s">We offer a wide range of services to meet your personal
+                                        needs
+                                    </p>
+                                </div>
+                                <a class="tf-btn  style-default btn-color-white has-boder pd-26 wow fadeInUp"
+                                    data-wow-duration="1000" data-wow-delay="0.1s" href="#">
+                                    <span>Explore Our Services</span>
+                                </a>
+                            </div>
+                            <div class="grid-layout-3 multi-item">
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#">  Drug Addiction 
+                                            </a>
+                                        </h5>
+                                        <p>Evidence-based treatment for inhalant addiction at The Northern Lights, integrates medical care, therapy, and long-term recovery support.
+                                        </p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-1.jpg"
+                                                src="images/section/service-item-1.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0.1s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#"> Addiction to Inhalants </a>
+                                        </h5>
+                                        <p>Evidence-based treatment for inhalant addiction at The Northern Lights, integrates medical care, therapy, and long-term recovery support.p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-2.jpg"
+                                                src="images/section/service-item-2.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0.2s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#">Addiction treatment</a>
+                                        </h5>
+                                        <p>For long-lasting recovery, The Northern Lights offers individualized programs and evidence-based treatment for drug addiction.</p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-3.jpg"
+                                                src="images/section/service-item-3.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#"> Obsessive Compulsive Disorders</a>
+                                        </h5>
+                                        <p>The Northern Lights offers individualized  and inpatient programs that promote long-term recovery from Obsessive Compulsive Disorders.</p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-4.jpg"
+                                                src="images/section/service-item-4.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0.1s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#">Child & Adolescent Therapy</a>
+                                        </h5>
+                                        <p>Specialized support for children and teens, helping them navigate emotional
+                                            challenges.</p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-5.jpg"
+                                                src="images/section/service-item-5.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <div class="service-item style-3 hover-img wow fadeInUp" data-wow-duration="1000"
+                                    data-wow-delay="0.2s">
+                                    <div class="content z-5">
+                                        <h5 class="title">
+                                            <a href="#">Codependency</a>
+                                        </h5>
+                                        <p>Evidence-basedCodependency treatment is provided by The Northern Lights, along with structured recovery support, therapy, and medical care.</p>
+                                    </div>
+                                    <div class="image-wrap z-5 relative">
+                                        <a href="#">
+                                            <img class="lazyload" data-src="images/section/service-item-6.jpg"
+                                                src="images/section/service-item-6.jpg" alt="">
+                                        </a>
+                                    </div>
+                                    <a href="#" class="tf-btn-link z-5">
+                                        <span data-text="Read More">Read More</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- /section-service -->
+
+               <!-- .section-testimonials -->
+               <section class="section-testimonials page-home-2  tf-spacing-1 ">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="content-inner">
+                                <div class="wrap-testimonials">
+                                    <div class="content style-pagination">
+                                        <div class="heading-section text-start ">
+                                            <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Client Testimonials</p>
+                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">What
+                                                Our Clients Are Saying</h3>
+                                            <p class="description text-1 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Hear firsthand
+                                                accounts of healing and
+                                                positive change.
+                                            </p>
+                                        </div>
+                                        <div class="swiper-container slider-testimonial  ">
+                                            <div class="swiper-wrapper">
+                                                <div class="swiper-slide">
+
+                                                    <div class="wg-testimonial">
+                                                        <div class="rating wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <p class="text text-5  mb-16 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                                                "My time at The Northern Lights was a life-altering journey. The blend of cutting-edge therapy and serene, personalized care helped me rediscover myself. I arrived feeling broken and left with a newfound sense of purpose and peace."
+                                                            </p>
+                                                            <div class="bot">
+                                                                <div class="info wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                                                    <h6 class="title ">
+                                                                        <a href="#">John Samuel</a>
+                                                                    </h6>
+                                                                    <p>Danforth</p>
+                                                                </div>
+                                                                <a href="#" class="tf-btn-link wow fadeInUp"
+                                                                    data-wow-duration="1000" data-wow-delay="0s">
+                                                                    <span data-text="Read More Stories">Read More
+                                                                        Stories</span>
+                                                                    <i class="icon-ArrowRight"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="swiper-slide">
+
+                                                    <div class="wg-testimonial">
+                                                        <div class="rating">
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <p class="text text-5  mb-16">
+                                                                "I’ve been to other luxury rehabs, but what set The Northern Lights apart was the deeply compassionate, individualized attention. This isn't a one-size-fits-all program; it's a dedicated path to lasting recovery.
+                                                            </p>
+                                                            <div class="bot">
+                                                                <div class="info">
+                                                                    <h6 class="title ">
+                                                                        <a href="#">Kathy ferdino</a>
+                                                                    </h6>
+                                                                    <pLittle Portugal</p>
+                                                                </div>
+                                                                <a href="#" class="tf-btn-link">
+                                                                    <span data-text="Read More Stories">Read More
+                                                                        Stories</span>
+                                                                    <i class="icon-ArrowRight"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                                <div class="swiper-slide">
+
+                                                    <div class="wg-testimonial">
+                                                        <div class="rating">
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                            <i class="icon-favorite_major"></i>
+                                                        </div>
+                                                        <div class="content">
+                                                            <p class="text text-5  mb-16">
+                                                                "The discreet, elegant environment at The Northern Lights allowed me to focus on my recovery without distraction. The staff is world-class, and the support I received was unparalleled.
+                                                            </p>
+                                                            <div class="bot">
+                                                                <div class="info">
+                                                                    <h6 class="title ">
+                                                                        <a href="#">Mathew Warner</a>
+                                                                    </h6>
+                                                                    <p>Old East York</p>
+                                                                </div>
+                                                                <a href="#" class="tf-btn-link">
+                                                                    <span data-text="Read More Stories">Read More
+                                                                        Stories</span>
+                                                                    <i class="icon-ArrowRight"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-pagination pagination-testimonial">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-container slider-testimonial-thumbs ">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                                                <div class="image-wrap effec-overlay">
+                                                    <img class="lazyload" data-src="images/section/john.jpg"
+                                                        src="images/section/testimonials-2.jpg" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="image-wrap effec-overlay">
+                                                    <img class="lazyload" data-src="images/section/kathy.jpg"
+                                                        src="images/section/testimonials-2.jpg" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="image-wrap effec-overlay">
+                                                    <img class="lazyload" data-src="images/section/mathew.jpg"
+                                                        src="images/section/testimonials-2.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- /.section-testimonials -->
+
+            <!-- .section-news -->
+            <section class="section-news tf-spacing-2 style-pagination">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="heading-section ">
+                                <p class="text-2 sub  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                    Favourite Topics</p>
+                                <h3 class=" wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Healingy Blog
+                                    &
+                                    Resources</h3>
+                                <p class="description text-1 lh-30  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Your go-to source for
+                                    mental health insights, tools,
+                                    and
+                                    advice.
+                                </p>
+                            </div>
+                            <div class="swiper-container slider-layout-4">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="article-blog-item  hover-img h-400  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                            <div class="image-wrap">
+                                                <a href="#"> <img class="lazyload" data-src="images/section/resources-1-1.jpg"
+                                                        src="images/section/resources-1-1.jpg" alt="">
+                                                </a>
+                                                <div class="date-time">
+                                                    <div class="content">
+                                                        <p class="entry-day ">12</p>
+                                                        <p class="entry-month fw-book">SEP</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <p class="sub"><a href="#">Therapy</a></p>
+                                                <h5 class="title"><a href="#">Mindfulness For Better
+                                                        Mental
+                                                        Health
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="article-blog-item  hover-img h-400  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0.1s">
+                                            <div class="image-wrap">
+                                                <a href="#">
+                                                    <img class="lazyload" data-src="images/section/resources-1-2.jpg"
+                                                        src="images/section/resources-1-2.jpg" alt="">
+                                                </a>
+                                                <div class="date-time">
+                                                    <div class="content">
+                                                        <p class="entry-day ">14</p>
+                                                        <p class="entry-month fw-book">SEP</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <p class="sub"><a href="#">Wellness</a></p>
+                                                <h5 class="title"><a href="#">Self-Care for Emotional
+                                                        Well-being
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="article-blog-item  hover-img h-400  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0.2s">
+                                            <div class="image-wrap">
+                                                <a href="#">
+                                                    <img class="lazyload" data-src="images/section/resources-1-3.jpg"
+                                                        src="images/section/resources-1-3.jpg" alt="">
+                                                </a>
+                                                <div class="date-time">
+                                                    <div class="content">
+                                                        <p class="entry-day ">16</p>
+                                                        <p class="entry-month fw-book">SEP</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <p class="sub"><a href="#">Therapy</a></p>
+                                                <h5 class="title"><a href="#">Cognitive Behavioral
+                                                        Therapy
+                                                        for
+                                                        Stress
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="article-blog-item  hover-img h-400  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0.3s">
+                                            <div class="image-wrap">
+                                                <a href="#">
+                                                    <img class="lazyload" data-src="images/section/resources-1-4.jpg"
+                                                        src="images/section/resources-1-4.jpg" alt="">
+                                                </a>
+                                                <div class="date-time">
+                                                    <div class="content">
+                                                        <p class="entry-day ">18</p>
+                                                        <p class="entry-month fw-book">SEP</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <p class="sub"><a href="#">Wellness</a></p>
+                                                <h5 class="title"><a href="#">How Therapy Helps with
+                                                        Trauma
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-pagination pagination-layout">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- /.section-news -->
+
+
+            <!-- .section-contact -->
+            <section class="section-contact">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="wrap-content">
+                                <div class="box-contact">
+                                    <div class="heading-section text-start">
+                                        <p class="text-2 sub  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Book a Consultation</p>
+                                        <h3 class=" wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                            Start Consultation - Begin Your Healing Journey</h3>
+                                        <p class="description text-1 lh-30  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Connect with a
+                                            dedicated specialist today
+                                            and take the first step towards a healthier, more fulfilling life.
+                                        </p>
+                                    </div>
+                                    <ul class="list-info">
+                                        <li class=" wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-Envelope"></i> <a
+                                                href="#">info@thenorthernlights.ca</a></li>
+                                        <li class=" wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i
+                                                class="icon-PhoneCall"></i>(705) 667-1000</li>
+                                        <li class=" wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s"><i class="icon-MapPin"></i>Muskoka Lakes, Ontario, Canada
+                                        </li>
+                                    </ul>
+                                    <a href="#" class="tf-btn-link z-5  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
+                                        <span data-text="Open map">Open map</span>
+                                        <i class="icon-ArrowRight"></i>
+                                    </a>
+                                </div>
+                                <form class="form-consultation wow fadeInRight" data-wow-duration="1000" data-wow-delay="0s" method="post"
+                                    id="contactform" action="#">
+                                    <h4 class="mb-20 text-center">Book It Now</h4>
+                                    <fieldset class="name">
+                                        <input type="text" name="name" class="tf-input style-1" placeholder="Your Name*" tabindex="2"
+                                            aria-required="true" required>
+                                    </fieldset>
+                                    <fieldset class="phone">
+                                        <input type="number" name="phone" class="tf-input style-1" placeholder="Phone Number" tabindex="2"
+                                            aria-required="true" required>
+                                    </fieldset>
+                                    <div class="select-custom mb-20">
+                                        <select id="service" data-default="" name="select">
+                                            <option value="---">Choose Services</option>
+                                            <option value="Individual Counseling">Individual Counseling</option>
+                                            <option value="Family Therapy">Family Therapy</option>
+                                            <option value="Couples Therapy">Couples Therapy</option>
+                                            <option value="Group Therapy">Group Therapy</option>
+                                            <option value="Child & Adolescent Therapy">Child & Adolescent Therapy
+                                            </option>
+                                            <option value="Trauma Counseling">Trauma Counseling</option>
+                                        </select>
+                                    </div>
+                                    <fieldset class="message">
+                                        <textarea id="message" class="tf-input" name="message" rows="4" placeholder="Your mesage" tabindex="4"
+                                            aria-required="true" required></textarea>
+                                    </fieldset>
+                                    <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" type="submit">
+                                        <span>
+                                            Submit
+                                        </span>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- /.section-contact -->
+
+        </div><!-- /.main-content -->
+
+     <?php include('inc/footer.php');?>
+
+    <!-- mobile-nav -->
+    <div class="offcanvas offcanvas-start mobile-nav-wrap " tabindex="-1" id="menu-mobile" aria-labelledby="menu-mobile">
+        <div class="offcanvas-header top-nav-mobile">
+            
+            <div data-bs-dismiss="offcanvas" aria-label="Close">
+                <i class="icon-close"></i>
+            </div>
+        </div>
+        <div class="offcanvas-body inner-mobile-nav">
+            <div class="mb-body">
+                <ul id="menu-mobile-menu">
+                    <li class="menu-item ">
+                        <a href="#" class="tem-menu-mobile "> Home</a>
+                    </li>
+
+                    <li class="menu-item ">
+                        <a href="#" class="tem-menu-mobile ">Getting Started</a>
+                    </li>
+                 
+                    <li class="menu-item ">
+                        <a href="#" class="tem-menu-mobile ">What We Treat
+                        </a>
+                    </li>
+                    <li class="menu-item ">
+                        <a href="#" class="tem-menu-mobile ">I’m Looking for
+                                        
+                        </a>
+                    </li>
+                    <li class="menu-item ">
+                        <a href="#" class="tem-menu-mobile ">Who We Are 
+
+                                        
+                        </a>
+                    </li>
+                    
+                </ul>
+                <div class="support">
+                    <a href="#" class="text-need"> Need help?</a>
+                    <ul class="mb-info">
+                        <li>Call Us Now: <span class="number">(705) 667-1000</span></li>
+                        <li>Support 24/7: <a href="#">info@thenorthernlights.ca</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div><!-- /.mobile-nav -->
+
+    <!-- .open-search -->
+    <div class="offcanvas offcanvas-top offcanvas-search" id="canvasSearch">
+        <button class="btn-close-search" type="button" data-bs-dismiss="offcanvas" aria-label="Close">
+            <i class="icon-close"></i>
+        </button>
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="offcanvas-body">
+                        <form action="#" class="form-search-courses">
+                            <div class="icon">
+                                <i class="icon-keyboard"></i>
+                            </div>
+                            <fieldset>
+                                <input class="" type="text" placeholder="Search for anything" name="text" tabindex="2" value="" aria-required="true"
+                                    required="">
+                            </fieldset>
+                            <div class="button-submit">
+                                <button class="" type="submit">
+                                    <i class="icon-MagnifyingGlass fs-20"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- /.open-search -->
+
+    <!-- .prograss -->
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+                style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+            </path>
+        </svg>
+    </div> <!-- /.prograss -->
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/jquery.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/lazysize.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/odometer.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/counter.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/swiper.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/wow.min.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/jquery-validate.js"></script>
+    <script type="text/javascript" src="<?=$baseUrl;?>/js/main.js"></script>
+    <!-- /Javascript -->
+
+  
+
+    <ul class="DeskFixed">
+        <li>
+           <a class="Whatapp" href="to:7056671000">
+              <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
+                 <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
+                c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
+                c14.337,0,26-11.663,26-26S40.337,0,26,0z M26,50c-4.519,0-8.921-1.263-12.731-3.651c-0.161-0.101-0.346-0.152-0.531-0.152
+                c-0.099,0-0.198,0.015-0.294,0.044l-8.999,2.77c0.661-2.413,1.849-6.729,2.538-9.13c0.08-0.278,0.035-0.578-0.122-0.821
+                C3.335,35.173,2,30.657,2,26C2,12.767,12.767,2,26,2s24,10.767,24,24S39.233,50,26,50z"></path>
+                 <path d="M42.985,32.126c-1.846-1.025-3.418-2.053-4.565-2.803c-0.876-0.572-1.509-0.985-1.973-1.218
+                c-1.297-0.647-2.28-0.19-2.654,0.188c-0.047,0.047-0.089,0.098-0.125,0.152c-1.347,2.021-3.106,3.954-3.621,4.058
+                c-0.595-0.093-3.38-1.676-6.148-3.981c-2.826-2.355-4.604-4.61-4.865-6.146C20.847,20.51,21.5,19.336,21.5,18
+                c0-1.377-3.212-7.126-3.793-7.707c-0.583-0.582-1.896-0.673-3.903-0.273c-0.193,0.039-0.371,0.134-0.511,0.273
+                c-0.243,0.243-5.929,6.04-3.227,13.066c2.966,7.711,10.579,16.674,20.285,18.13c1.103,0.165,2.137,0.247,3.105,0.247
+                c5.71,0,9.08-2.873,10.029-8.572C43.556,32.747,43.355,32.331,42.985,32.126z M30.648,39.511
+                c-10.264-1.539-16.729-11.708-18.715-16.87c-1.97-5.12,1.663-9.685,2.575-10.717c0.742-0.126,1.523-0.179,1.849-0.128
+                c0.681,0.947,3.039,5.402,3.143,6.204c0,0.525-0.171,1.256-2.207,3.293C17.105,21.48,17,21.734,17,22c0,5.236,11.044,12.5,13,12.5
+                c1.701,0,3.919-2.859,5.182-4.722c0.073,0.003,0.196,0.028,0.371,0.116c0.36,0.181,0.984,0.588,1.773,1.104
+                c1.042,0.681,2.426,1.585,4.06,2.522C40.644,37.09,38.57,40.701,30.648,39.511z"></path>
+              </svg>
+           </a>
+        </li>
+        <li>
+           <a class="mob" href="#">
+              <svg id="mob" viewBox="0 0 473.806 473.806">
+                 <path d="M374.456,293.506c-9.7-10.1-21.4-15.5-33.8-15.5c-12.3,0-24.1,5.3-34.2,15.4l-31.6,31.5c-2.6-1.4-5.2-2.7-7.7-4
+                c-3.6-1.8-7-3.5-9.9-5.3c-29.6-18.8-56.5-43.3-82.3-75c-12.5-15.8-20.9-29.1-27-42.6c8.2-7.5,15.8-15.3,23.2-22.8
+                c2.8-2.8,5.6-5.7,8.4-8.5c21-21,21-48.2,0-69.2l-27.3-27.3c-3.1-3.1-6.3-6.3-9.3-9.5c-6-6.2-12.3-12.6-18.8-18.6
+                c-9.7-9.6-21.3-14.7-33.5-14.7s-24,5.1-34,14.7c-0.1,0.1-0.1,0.1-0.2,0.2l-34,34.3c-12.8,12.8-20.1,28.4-21.7,46.5
+                c-2.4,29.2,6.2,56.4,12.8,74.2c16.2,43.7,40.4,84.2,76.5,127.6c43.8,52.3,96.5,93.6,156.7,122.7c23,10.9,53.7,23.8,88,26
+                c2.1,0.1,4.3,0.2,6.3,0.2c23.1,0,42.5-8.3,57.7-24.8c0.1-0.2,0.3-0.3,0.4-0.5c5.2-6.3,11.2-12,17.5-18.1c4.3-4.1,8.7-8.4,13-12.9
+                c9.9-10.3,15.1-22.3,15.1-34.6c0-12.4-5.3-24.3-15.4-34.3L374.456,293.506z M410.256,398.806
+                C410.156,398.806,410.156,398.906,410.256,398.806c-3.9,4.2-7.9,8-12.2,12.2c-6.5,6.2-13.1,12.7-19.3,20
+                c-10.1,10.8-22,15.9-37.6,15.9c-1.5,0-3.1,0-4.6-0.1c-29.7-1.9-57.3-13.5-78-23.4c-56.6-27.4-106.3-66.3-147.6-115.6
+                c-34.1-41.1-56.9-79.1-72-119.9c-9.3-24.9-12.7-44.3-11.2-62.6c1-11.7,5.5-21.4,13.8-29.7l34.1-34.1c4.9-4.6,10.1-7.1,15.2-7.1
+                c6.3,0,11.4,3.8,14.6,7c0.1,0.1,0.2,0.2,0.3,0.3c6.1,5.7,11.9,11.6,18,17.9c3.1,3.2,6.3,6.4,9.5,9.7l27.3,27.3
+                c10.6,10.6,10.6,20.4,0,31c-2.9,2.9-5.7,5.8-8.6,8.6c-8.4,8.6-16.4,16.6-25.1,24.4c-0.2,0.2-0.4,0.3-0.5,0.5
+                c-8.6,8.6-7,17-5.2,22.7c0.1,0.3,0.2,0.6,0.3,0.9c7.1,17.2,17.1,33.4,32.3,52.7l0.1,0.1c27.6,34,56.7,60.5,88.8,80.8
+                c4.1,2.6,8.3,4.7,12.3,6.7c3.6,1.8,7,3.5,9.9,5.3c0.4,0.2,0.8,0.5,1.2,0.7c3.4,1.7,6.6,2.5,9.9,2.5c8.3,0,13.5-5.2,15.2-6.9
+                l34.2-34.2c3.4-3.4,8.8-7.5,15.1-7.5c6.2,0,11.3,3.9,14.4,7.3c0.1,0.1,0.1,0.1,0.2,0.2l55.1,55.1
+                C420.456,377.706,420.456,388.206,410.256,398.806z"></path>
+                 <path d="M256.056,112.706c26.2,4.4,50,16.8,69,35.8s31.3,42.8,35.8,69c1.1,6.6,6.8,11.2,13.3,11.2c0.8,0,1.5-0.1,2.3-0.2
+                c7.4-1.2,12.3-8.2,11.1-15.6c-5.4-31.7-20.4-60.6-43.3-83.5s-51.8-37.9-83.5-43.3c-7.4-1.2-14.3,3.7-15.6,11
+                S248.656,111.506,256.056,112.706z"></path>
+                 <path d="M473.256,209.006c-8.9-52.2-33.5-99.7-71.3-137.5s-85.3-62.4-137.5-71.3c-7.3-1.3-14.2,3.7-15.5,11
+                c-1.2,7.4,3.7,14.3,11.1,15.6c46.6,7.9,89.1,30,122.9,63.7c33.8,33.8,55.8,76.3,63.7,122.9c1.1,6.6,6.8,11.2,13.3,11.2
+                c0.8,0,1.5-0.1,2.3-0.2C469.556,223.306,474.556,216.306,473.256,209.006z"></path>
+              </svg>
+           </a>
+        </li>
+     </ul>
+
+     <div class="FixedCntct-sk">
+        <ul class="FixedCntct">
+           <li>
+              <a class="mob" href="#">
+                 <svg id="mob" version="1.1" viewBox="0 0 512 512">
+                    <path d="M302.933,42.667h-51.2c-7.074,0-12.8,5.726-12.8,12.8s5.726,12.8,12.8,12.8h51.2c7.074,0,12.8-5.726,12.8-12.8
+                   S310.007,42.667,302.933,42.667z"></path>
+                    <path d="M358.4,0H153.6c-28.228,0-51.2,22.972-51.2,51.2v409.6c0,28.228,22.972,51.2,51.2,51.2h204.8
+                 c28.228,0,51.2-22.972,51.2-51.2V51.2C409.6,22.972,386.628,0,358.4,0z M384,460.8c0,14.14-11.46,25.6-25.6,25.6H153.6
+                 c-14.14,0-25.6-11.46-25.6-25.6V51.2c0-14.14,11.46-25.6,25.6-25.6h204.8c14.14,0,25.6,11.46,25.6,25.6V460.8z"></path>
+                    <circle cx="256" cy="443.733" r="25.6"></circle>
+                    <circle cx="209.067" cy="55.467" r="12.8"></circle>
+                 </svg>
+                 Call Us
+           
+              </a>
+           </li>
+           <li>
+              <a class="mail" href="#">
+                 <svg id="mail" version="1.1" viewBox="0 0 480 480">
+                    <path d="M479.848,79.216c-0.054-0.543-0.161-1.078-0.32-1.6c-0.16-0.517-0.375-1.016-0.64-1.488
+                   c-0.128-0.224-0.152-0.488-0.304-0.704s-0.344-0.304-0.496-0.488c-0.357-0.421-0.757-0.804-1.192-1.144
+                   c-0.379-0.304-0.786-0.572-1.216-0.8c-0.447-0.23-0.916-0.415-1.4-0.552c-0.523-0.155-1.058-0.262-1.6-0.32
+                   c-0.24,0-0.448-0.136-0.696-0.136H8c-0.242,0.036-0.483,0.084-0.72,0.144c-0.521,0.052-1.036,0.157-1.536,0.312
+                   c-0.496,0.141-0.979,0.329-1.44,0.56c-0.421,0.23-0.819,0.498-1.192,0.8c-0.44,0.34-0.842,0.726-1.2,1.152
+                   c-0.152,0.184-0.36,0.288-0.496,0.488c-0.136,0.2-0.176,0.48-0.304,0.704c-0.265,0.472-0.48,0.971-0.64,1.488
+                   c-0.159,0.522-0.266,1.057-0.32,1.6c0,0.264-0.152,0.496-0.152,0.8v319.984c0,4.418,3.582,8,8,8h464c4.418,0,8-3.582,8-8v-320
+                   C480,79.744,479.872,79.512,479.848,79.216z M446.304,88.016L240,230.296L33.696,88.016H446.304z M464,392.016H16V95.256
+                   L235.456,246.6c2.735,1.888,6.353,1.888,9.088,0L464,95.256V392.016z"></path>
+                 </svg>
+                 Mail Us
+           
+              </a>
+           </li>
+           <li>
+              <a class="whatsapp" href="#">
+                 <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
+                    <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
+                   c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
+                   c14.337,0,26-11.663,26-26S40.337,0,26,0z M26,50c-4.519,0-8.921-1.263-12.731-3.651c-0.161-0.101-0.346-0.152-0.531-0.152
+                   c-0.099,0-0.198,0.015-0.294,0.044l-8.999,2.77c0.661-2.413,1.849-6.729,2.538-9.13c0.08-0.278,0.035-0.578-0.122-0.821
+                   C3.335,35.173,2,30.657,2,26C2,12.767,12.767,2,26,2s24,10.767,24,24S39.233,50,26,50z"></path>
+                    <path d="M42.985,32.126c-1.846-1.025-3.418-2.053-4.565-2.803c-0.876-0.572-1.509-0.985-1.973-1.218
+                   c-1.297-0.647-2.28-0.19-2.654,0.188c-0.047,0.047-0.089,0.098-0.125,0.152c-1.347,2.021-3.106,3.954-3.621,4.058
+                   c-0.595-0.093-3.38-1.676-6.148-3.981c-2.826-2.355-4.604-4.61-4.865-6.146C20.847,20.51,21.5,19.336,21.5,18
+                   c0-1.377-3.212-7.126-3.793-7.707c-0.583-0.582-1.896-0.673-3.903-0.273c-0.193,0.039-0.371,0.134-0.511,0.273
+                   c-0.243,0.243-5.929,6.04-3.227,13.066c2.966,7.711,10.579,16.674,20.285,18.13c1.103,0.165,2.137,0.247,3.105,0.247
+                   c5.71,0,9.08-2.873,10.029-8.572C43.556,32.747,43.355,32.331,42.985,32.126z M30.648,39.511
+                   c-10.264-1.539-16.729-11.708-18.715-16.87c-1.97-5.12,1.663-9.685,2.575-10.717c0.742-0.126,1.523-0.179,1.849-0.128
+                   c0.681,0.947,3.039,5.402,3.143,6.204c0,0.525-0.171,1.256-2.207,3.293C17.105,21.48,17,21.734,17,22c0,5.236,11.044,12.5,13,12.5
+                   c1.701,0,3.919-2.859,5.182-4.722c0.073,0.003,0.196,0.028,0.371,0.116c0.36,0.181,0.984,0.588,1.773,1.104
+                   c1.042,0.681,2.426,1.585,4.06,2.522C40.644,37.09,38.57,40.701,30.648,39.511z"></path>
+                 </svg>
+                 Whatsapp
+           
+              </a>
+           </li>
+        </ul>
+     </div>
+
+
+     
+ <!-- Modal -->
+ 
+
+  <script>
+ document.addEventListener('DOMContentLoaded', function () {
+  if (!localStorage.getItem('welcomeModalShown')) {
+    const myModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
+    setTimeout(function () {
+      myModal.show();
+      localStorage.setItem('welcomeModalShown', 'true');
+    }, 5000);
+  }
+});
+  </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
+
+</bod>
+
+
+</html>

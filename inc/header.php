@@ -7,7 +7,7 @@
                         <ul class="top-info">
                             <li class="text-2">
                                 <div class="title text-2">Call Us Now:</div>
-                                <div class=" text-3 fw-6"><a href="tel:7056671000">(705) 667-1000 </a></div>
+                                <div class=" text-3 fw-6"><a href="tel:+17052234325">+1(705) 223-4325 (HEAL) </a></div>
                             </li>
                             <li class="text-2">
                                 <div class="title text-2">Support 24/7:</div>
@@ -180,9 +180,9 @@
 
                                             </h6>
                                             <li class="mt-3">
-                                                <a class=" tf-btn style-default btn-color-white has-boder pd-40 sk" href="tel:7056671000">
+                                                <a class=" tf-btn style-default btn-color-white has-boder pd-40 sk" href="tel:+17052234325">
                                                     <span>
-                                                        (705) 667-1000
+                                                        +1(705) 223-4325
                                                     </span>
                                                 </a>
 
@@ -298,9 +298,9 @@
                                 </a>
                             </div>
                             <div class="btn-get">
-                                <a class=" tf-btn style-default btn-color-white has-boder pd-40" href="tel:7056671000">
+                                <a class=" tf-btn style-default btn-color-white has-boder pd-40" href="tel:+17052234325">
                                     <span>
-                                        (705) 667-1000
+                                        +1(705) 223-4325
                                     </span>
                                 </a>
                             </div>

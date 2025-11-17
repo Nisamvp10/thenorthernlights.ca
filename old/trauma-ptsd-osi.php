@@ -1,0 +1,201 @@
+     <?php include('inc/headerLinks.php');?>
+
+            <div class="page-title">
+                <div class="tf-container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h3 class="title">Trauma/PTSD/OSI
+
+
+                            </h3>
+                            <ul class="breadcrumbs">
+                                <li><a href="<?=$baseUrl;?>">Home</a></li>
+                                <li>  Trauma/PTSD/OSI
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+    
+            </div>
+
+             <!-- .main-content -->
+             <div class="main-content-2 ">
+
+                <section class="section-service-details">
+                    <div class="tf-container">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="content-inner">
+                                    <div class="image-wrap">
+                                        <img class="lazyload" data-src="images/section/section-service-details.jpg"
+                                            src="images/section/section-service-details.jpg" alt="">
+                                    </div>
+                                    <div class="heading">
+                                        <h4 class="mb-16">What is Post-Traumatic Stress Disorder (PTSD)?</h4>
+                                        <p class="text-1 lh-30">
+
+                                            PTSD is an anxiety disorder that mayoften develops after a traumatic event or series of events, like a car crash, assault, abuse, death of a child, a natural disaster, war, combat, or childhood neglect. It is characterized by unwanted memories of the event, hyperarousal, flashbacks, and avoidance behaviours. Long-term, chronic trauma can affect a person’s ability to form healthy, trusting relationships and even function effectively on a day-to-day basis.
+
+
+                                        </p>
+
+                                      
+                                    </div>
+                                    <div class="benefits">
+                                        <div class="heading">
+                                            <h4 class="mb-16">Recognizing Trauma in the Workplace</h4>
+                                            <p class="text-1 lh-30">
+                                             
+                                                
+                                                A highly demanding career can take its toll on an individual’s wellbeing. Those who work as first responders, healthcare professionals, or in the military are more likely to experience traumas based on their line of work. The associated struggles with mental health and substance use only compound the problem further.It is important for employers to be mindful of traumatic incidents which their employees experience, as they may need counselling and therapy.
+
+
+                                            </p>
+
+                                           
+                                        </div>
+                                     
+                                    </div>
+                                   
+                                   
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="service-siderbar sticky">
+                                    <form class="form-consultation" id="getconsultationForm">
+        <h5 class="mb-16">Get A  Consultation</h5>
+        <fieldset class="name">
+            <input type="text" class="tf-input style-1" placeholder="Your Name*" tabindex="2" aria-required="true" id="fname" name="fname" >
+            <span class="invalid-feedback" id="fname_error"></span>
+        </fieldset>
+        <fieldset class="phone">
+            <input type="number" class="tf-input style-1" placeholder="Phone Number" tabindex="2" aria-required="true" id="fphone" name="fphone" >
+            <span class="invalid-feedback" id="fphone_error"></span>
+        </fieldset>
+        <div class="select-custom mb-20">
+            <select id="fservice" data-default="" name="fservice">
+                  <option value="">Choose Services</option>
+                    <option value="Individual Counseling">Individual Counseling</option>
+                    <option value="Family Therapy">Family Therapy</option>
+                    <option value="Couples Therapy">Couples Therapy</option>
+                    <option value="Group Therapy">Group Therapy</option>
+                    <option value="Child & Adolescent Therapy">Child & Adolescent Therapy
+                </option>
+            </select>
+            <span class="invalid-feedback" id="fservice_error"></span>
+        </div>
+        <fieldset>
+            <textarea id="fmessage" class="tf-input" name="fmessage" rows="4" placeholder="Your mesage" tabindex="4" aria-required="true" ></textarea>
+            <span class="invalid-feedback" id="fmessage_error"></span>
+            
+        </fieldset>
+        <button class="tf-btn style-default btn-color-secondary pd-40 boder-8 send-wrap" id="submitBtn" type="submit">
+            <span>
+                Submit
+            </span>
+        </button>
+        <div class="info">
+            <h5>Infomation</h5>
+            <ul class="list-info">
+                <li><i class="icon-Envelope"></i> <a href="#">info@thenorthernlights.ca</a></li>
+                <li><i class="icon-PhoneCall"></i> (705) 667-1000</li>
+                <li><i class="icon-MapPin"></i> Muskoka Lakes, Ontario, Canada
+                </li>
+            </ul>
+        </div>
+    </form>v class="info">
+                                            <h5>Infomation</h5>
+                                            <ul class="list-info">
+                                                <li><i class="icon-Envelope"></i> <a href="#">info@thenorthernlights.ca</a></li>
+                                                <li><i class="icon-PhoneCall"></i> (705) 667-1000</li>
+                                                <li><i class="icon-MapPin"></i> Muskoka Lakes, Ontario, Canada
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </form>
+                                
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+    
+              
+            </div><!-- /.main-content -->
+    
+     
+            <?php include('inc/footer.php');?>
+
+
+    <!-- mobile-nav -->
+    
+
+    <!-- .open-search -->
+    <div class="offcanvas offcanvas-top offcanvas-search" id="canvasSearch">
+        <button class="btn-close-search" type="button" data-bs-dismiss="offcanvas" aria-label="Close">
+            <i class="icon-close"></i>
+        </button>
+        <div class="tf-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="offcanvas-body">
+                        <form action="#" class="form-search-courses">
+                            <div class="icon">
+                                <i class="icon-keyboard"></i>
+                            </div>
+                            <fieldset>
+                                <input class="" type="text" placeholder="Search for anything" name="text" tabindex="2" value="" aria-required="true"
+                                    required="">
+                            </fieldset>
+                            <div class="button-submit">
+                                <button class="" type="submit">
+                                    <i class="icon-MagnifyingGlass fs-20"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- /.open-search -->
+
+    <!-- .prograss -->
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+                style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+            </path>
+        </svg>
+    </div> <!-- /.prograss -->
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/lazysize.min.js"></script>
+    <script type="text/javascript" src="js/odometer.min.js"></script>
+    <script type="text/javascript" src="js/counter.js"></script>
+    <script type="text/javascript" src="js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="js/swiper.js"></script>
+    <script type="text/javascript" src="js/wow.min.js"></script>
+    <script type="text/javascript" src="js/jquery-validate.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <!-- /Javascript -->
+
+         <?php include('inc/mobnav.php');?>
+
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
+
+</bod>
+
+
+</html>

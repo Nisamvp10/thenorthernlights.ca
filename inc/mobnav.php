@@ -1,185 +1,6 @@
-     <?php include('inc/headerLinks.php');?>
-
-            <div class="page-title">
-                <div class="tf-container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h3 class="title">About Us</h3>
-                            <ul class="breadcrumbs">
-                                <li><a href="<?=$baseUrl;?>">Home</a></li>
-                                <li>About</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-    
-            </div>
-
-             <!-- .main-content -->
-             <div class="main-content-2 ">
-
-                    <!-- .section-box-about -->
-            <div class="section-box-about  page-home-4 ">
-                <div class="tf-container">
-                    <div class="wrap-box-about">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="image-wrap wow fadeInLeft effec-overlay" data-wow-duration="1000"
-                                    data-wow-delay="0s">
-                                    <img class="lazyload" data-src="images/section/section-about-2.jpg"
-                                        src="images/section/section-about-2.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-6 ">
-                                <div class="box-about">
-                                    <div class="heading-section text-start ">
-                                        <p class="text-2 sub wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                            About Northern Lights</p>
-                                        <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                            Welcome Northern Lights
-                                                                                </h3>
-                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
-                                            data-wow-delay="0s">
-                                            At Northern Lights, we recognize that each person's path to recovery is distinct. Our all-encompassing treatment programs are tailored to meet the varied needs of our clients, equipping them with the essential resources to attain enduring sobriety and mental health. Through compassionate support and evidence-based therapies, we lead you or your loved one towards a healthier, addiction-free existence.
-                                        </p>
-
-                                        <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
-                                        data-wow-delay="0s">
-                                    
-Our goal at The Northern Lights is straightforward but profound: to assist you in recovering from addiction and beginning a path to long-term sobriety. During this life-changing period, we are dedicated to giving you the best possible care, support, and comfort.
-
-                                    
-                                    </p>
-
-                                    <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
-                                    data-wow-delay="0s">
-                                
-                                    We at The Northern Lights are here to support you at every turn. We have the knowledge and tools to support you in reaching your objectives, whether they involve detox, rehabilitation, or a caring sober living environment.
-
-                                
-                                </p>    
-                                    </div>
-                                  
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- /.section-box-about -->
-
-    
-               
-              
-            </div><!-- /.main-content -->
-    
-     
-        <!-- #Footer -->
-             <?php include('inc/footer.php');?>
-
-
-    <!-- mobile-nav -->
-    <div class="offcanvas offcanvas-start mobile-nav-wrap " tabindex="-1" id="menu-mobile" aria-labelledby="menu-mobile">
-        <div class="offcanvas-header top-nav-mobile">
-            
-            <div data-bs-dismiss="offcanvas" aria-label="Close">
-                <i class="icon-close"></i>
-            </div>
-        </div>
-        <div class="offcanvas-body inner-mobile-nav">
-            <div class="mb-body">
-                <ul id="menu-mobile-menu">
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile "> Home</a>
-                    </li>
-
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">Getting Started</a>
-                    </li>
-                 
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">What We Treat
-                        </a>
-                    </li>
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">I’m Looking for
-                                        
-                        </a>
-                    </li>
-                    <li class="menu-item ">
-                        <a href="#" class="tem-menu-mobile ">Who We Are 
-
-                                        
-                        </a>
-                    </li>
-                    
-                </ul>
-                <div class="support">
-                    <a href="#" class="text-need"> Need help?</a>
-                    <ul class="mb-info">
-                        <li>Call Us Now: <span class="number">(705) 667-1000</span></li>
-                        <li>Support 24/7: <a href="#">info@thenorthernlights.ca</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div><!-- /.mobile-nav -->
-
-    <!-- .open-search -->
-    <div class="offcanvas offcanvas-top offcanvas-search" id="canvasSearch">
-        <button class="btn-close-search" type="button" data-bs-dismiss="offcanvas" aria-label="Close">
-            <i class="icon-close"></i>
-        </button>
-        <div class="tf-container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="offcanvas-body">
-                        <form action="#" class="form-search-courses">
-                            <div class="icon">
-                                <i class="icon-keyboard"></i>
-                            </div>
-                            <fieldset>
-                                <input class="" type="text" placeholder="Search for anything" name="text" tabindex="2" value="" aria-required="true"
-                                    required="">
-                            </fieldset>
-                            <div class="button-submit">
-                                <button class="" type="submit">
-                                    <i class="icon-MagnifyingGlass fs-20"></i>
-                                </button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><!-- /.open-search -->
-
-    <!-- .prograss -->
-    <div class="progress-wrap">
-        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
-                style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
-            </path>
-        </svg>
-    </div> <!-- /.prograss -->
-
-    <!-- Javascript -->
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/lazysize.min.js"></script>
-    <script type="text/javascript" src="js/odometer.min.js"></script>
-    <script type="text/javascript" src="js/counter.js"></script>
-    <script type="text/javascript" src="js/swiper-bundle.min.js"></script>
-    <script type="text/javascript" src="js/swiper.js"></script>
-    <script type="text/javascript" src="js/wow.min.js"></script>
-    <script type="text/javascript" src="js/jquery-validate.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>
-    <!-- /Javascript -->
-
-  
-
-    <ul class="DeskFixed">
+  <ul class="DeskFixed">
         <li>
-           <a class="Whatapp" href="to:7056671000">
+           <a class="Whatapp" href="https://wa.me/+17052234325/?text=Hello I want more info about&app_absent=1">
               <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
                  <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
                 c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
@@ -200,7 +21,7 @@ Our goal at The Northern Lights is straightforward but profound: to assist you i
               </a>
         </li>
         <li>
-           <a class="mob" href="#">
+           <a class="mob" href="tel:+17052234325">
               <svg id="mob" viewBox="0 0 473.806 473.806">
                  <path d="M374.456,293.506c-9.7-10.1-21.4-15.5-33.8-15.5c-12.3,0-24.1,5.3-34.2,15.4l-31.6,31.5c-2.6-1.4-5.2-2.7-7.7-4
                 c-3.6-1.8-7-3.5-9.9-5.3c-29.6-18.8-56.5-43.3-82.3-75c-12.5-15.8-20.9-29.1-27-42.6c8.2-7.5,15.8-15.3,23.2-22.8
@@ -233,7 +54,7 @@ Our goal at The Northern Lights is straightforward but profound: to assist you i
      <div class="FixedCntct-sk">
         <ul class="FixedCntct">
            <li>
-              <a class="mob" href="#">
+              <a class="mob" href="tel:+17052234325">
                  <svg id="mob" version="1.1" viewBox="0 0 512 512">
                     <path d="M302.933,42.667h-51.2c-7.074,0-12.8,5.726-12.8,12.8s5.726,12.8,12.8,12.8h51.2c7.074,0,12.8-5.726,12.8-12.8
                    S310.007,42.667,302.933,42.667z"></path>
@@ -248,7 +69,7 @@ Our goal at The Northern Lights is straightforward but profound: to assist you i
               </a>
            </li>
            <li>
-              <a class="mail" href="#">
+              <a class="mail" href="mailto:info@thenorthernlights.ca">
                  <svg id="mail" version="1.1" viewBox="0 0 480 480">
                     <path d="M479.848,79.216c-0.054-0.543-0.161-1.078-0.32-1.6c-0.16-0.517-0.375-1.016-0.64-1.488
                    c-0.128-0.224-0.152-0.488-0.304-0.704s-0.344-0.304-0.496-0.488c-0.357-0.421-0.757-0.804-1.192-1.144
@@ -265,7 +86,7 @@ Our goal at The Northern Lights is straightforward but profound: to assist you i
               </a>
            </li>
            <li>
-              <a class="whatsapp" href="#">
+              <a class="whatsapp" href="https://wa.me/+17052234325/?text=Hello I want more info about&app_absent=1">
                  <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
                     <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
                    c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
@@ -289,13 +110,3 @@ Our goal at The Northern Lights is straightforward but profound: to assist you i
            </li>
         </ul>
      </div>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
-
-<script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
-
-</bod>
-
-
-</html>

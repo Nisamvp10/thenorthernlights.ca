@@ -26,7 +26,7 @@
                                 <li class="menu-item">
                                     <a class=" tf-btn style-default btn-color-white has-boder pd-40 sk" href="#">
                                         <span>
-                                            (705) 667-1000
+                                            +1(705) 223-4325
                                         </span>
                                     </a>
                                 
@@ -185,8 +185,8 @@
                 <div class="support">
                     <a href="#" class="text-need"> Need help?</a>
                     <ul class="mb-info">
-                        <li>Call Us Now: <span class="number">(705) 667-1000</span></li>
-                        <li>Support 24/7: <a href="#">info@thenorthernlights.ca</a></li>
+                        <li>Call Us Now: <span class="number">+1(705) 223-4325</span></li>
+                        <li>Support 24/7: <a href="mailto:info@thenorthernlights.ca">info@thenorthernlights.ca</a></li>
                     </ul>
                 </div>
             </div>

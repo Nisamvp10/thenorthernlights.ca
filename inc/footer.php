@@ -11,8 +11,8 @@
                                 </p>
                                 <ul class="footer-info">
                                     <li>Location: Muskoka Lakes, Ontario, Canada</li>
-                                    <li>Support 24/7: <a href="#">info@thenorthernlights.ca</a></li>
-                                    <li>Call Us Now: (705) 667-1000</li>
+                                    <li>Support 24/7: <a href="mailto:info@thenorthernlights.ca">info@thenorthernlights.ca</a></li>
+                                    <li>Call Us Now: +1(705) 223-4325 (HEAL) </li>
                                 </ul>
                                 <ul class="tf-social">
                                     <li><a href="#"><svg width="20" height="20" viewBox="0 0 20 20" fill="none"

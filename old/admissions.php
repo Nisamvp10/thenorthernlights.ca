@@ -4,96 +4,157 @@
                 <div class="tf-container">
                     <div class="row">
                         <div class="col-12">
-                            <h3 class="title">Veteran
-                            </h3>
+                            <h3 class="title">Admissions</h3>
                             <ul class="breadcrumbs">
                                 <li><a href="<?=$baseUrl;?>">Home</a></li>
-                                <li>Veteran
-                                </li>
+                                <li>Admissions</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-    
             </div>
 
-             <!-- .main-content -->
-             <div class="main-content-2 ">
-
-    
-                <div class="section-box-about page-home-2">
+            <div class="main-content-2 page-shop-check-out">
+                <!-- .section-check-out -->
+                <section class="section-check-out">
                     <div class="tf-container">
-                        <div class="wrap-box-about">
-                            <div class="row ">
-                                <div class="col-md-5">
-                                    <div class="image-wrap  wow fadeInLeft effec-overlay" data-wow-duration="1000" data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w1.png" src="images/w1.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="col-md-7">
-                                    <div class="box-about">
-                                      
-                                        <div class="heading-section text-start  wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">
-                                          
-                                            <h3>Overcoming Addiction and Mental Health Challenges
+                        <div class="row">
+                            <div class="col-lg-6 offset-3">
+                                <div class="check-out-info form-payment">
+                                    <div class="payment-option active">
+                                    <form class="form-info" id="admissions">
+                                        <h5 class="mb-20">Take the first step towards lasting recovery.</h5>
+                                        <div class="cols">
+                                            <fieldset class="name">
+                                                <input type="text" class="tf-input style-2" placeholder="First Name*" name="aname" id="aname" tabindex="2" aria-required="true" >
+                                                <span class="invalid-feedback" id="aname_error"></span>
+                                            </fieldset>
+                                            <fieldset class="name">
+                                                <input type="text" class="tf-input style-2" placeholder="Last Name*" tabindex="2" name="last_name"  id="last_name" aria-required="true" >
+                                                <span class="invalid-feedback" id="lase_name_error"></span>
+                                            </fieldset>
+                                        </div>
+                                        <div class="cols">
+                                            <fieldset class="email">
+                                                <input type="email" class="tf-input style-2" placeholder="Email Address*" tabindex="2" name="email" id="email" aria-required="true" >
+                                                <span class="invalid-feedback" id="email_error"></span>
+                                            </fieldset>
+                                            <fieldset class="phone">
+                                                <input type="text" class="tf-input style-2" placeholder="Phone Number*" tabindex="2" name="phone" id="phone" aria-required="true" >
+                                                <span class="invalid-feedback" id="phone_error"></span>
+                                            </fieldset>
+                                        </div>
+                                        <div class="cols">
+                                            <div class="select-custom">
+                                            <select class="tf-select w-100" id="country" name="country" data-default="">
+                                                <option value="" data-provinces="[]">Province of Residence</option>
+                                                <option value="Alberta">Alberta</option>
+                                                <option value="British Columbia">British Columbia</option>
+                                                <option value="Manitoba">Manitoba</option>
+                                            </select>
+                                            <span class="invalid-feedback" id="country_error"></span>
+                                        </div>
+                                        </div>
 
-                                            </h3>
-                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">With a team of
-                                                At EHN Canada, we understand the profound impact that addiction and mental health challenges can have on families. Watching someone you love struggle can be overwhelming, heartbreaking, and leave you feeling powerless. But you are not alone. We are here to support families like yours every step of the way, providing the guidance, resources, and care needed to help your loved one take the first step toward recovery.
+                                        <div class="cols">
+                                            <div class="select-custom">
+                                            <select class="tf-select w-100" id="requesting_for" name="requesting_for" data-default="">
+                                                <option value="" data-provinces="[]">You're requesting help for:</option>
+                                                <option value="Yourself">Yourself</option>
+                                                <option value="A friend">A friend</option>
+                                                <option value="A family member">A family member</option>
+                                               
+                                            </select>
+                                            <span class="invalid-feedback" id="requesting_for_error"></span>
+                                        </div>
+                                        </div>
 
-                                            </p>
+                                        <div class="cols">
+                                            <div class="select-custom">
+                                            <select class="tf-select w-100" id="treatment" name="treatment" data-default="">
+                                                <option value="---" data-provinces="[]">What type of treatment are you looking for? </option>
+                                                <option value="Inpatient Treatment">Inpatient Treatment</option>
+                                                <option value="Virtual Treatment">Virtual Treatment</option>
+                                                <option value="Not sure yet">Not sure yet</option>
+                                               
+                                            </select>
+                                            <span class="invalid-feedback" id="treatment_error"></span>
+                                        </div>
+                                        </div>
+                                        <div class="cols">
+                                            <fieldset class="address">
+                                                <input type="text" class="tf-input style-2" placeholder="What motivated you to reach out?" name="motivated" id="motivated" tabindex="2" aria-required="true" >
+                                            </fieldset>
                                         
                                         </div>
-                                      
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> <!-- /.section-box-about -->
-    
-
-
-
-                <div class="section-box-about page-home-3 tf-spacing-1">
-                    <div class="tf-container">
-                        <div class="wrap-box-about ">
-                            <div class="row ">
-                                <div class="col-md-7">
-                                    <div class="box-about">
-                                     
-                                        <div class="heading-section text-start ">
-                                         
-                                            <h3 class="wow fadeInUp" data-wow-duration="1000" data-wow-delay="0s">Why Families Trust EHN Canada
-
-                                            </h3>
-                                            <p class="description text-1 lh-30 wow fadeInUp" data-wow-duration="1000"
-                                                data-wow-delay="0s">
-                                                Families across Canada turn to EHN Canada because of our unwavering commitment to helping loved ones access the care they need. Our approach is grounded in compassion, expertise, and a deep understanding of the challenges families face. We pride ourselves on being a trusted partner for families who want to help their loved ones find hope and healing.  
-                                            </p>
+                                        <div class="cols">
+                                            <p class="text-2">Are you enquiring about treatment specifically for a veteran, member of the armed forces, first responder or medical professional? *</p>
+                                        <div class=" radio-item collapsed" id="headingOne" name="headingOne">
+                                            <label class="fw-6 text-3 form-check-label" for="creditCard-1">
+                                                <input type="radio" class="tf-radio check-payment" value="yes" id="creditCard-1" name="paymentMethod" checked="">
+                                                <span class="btn-radio"></span>
+                                                Yes</label>
                                         </div>
-                                       
+
+                                        <div class=" radio-item collapsed" id="headingOne">
+                                            <label class="fw-6 text-3 form-check-label" for="creditCard-1">
+                                                <input type="radio" class="tf-radio check-payment" value="No" id="creditCard-1" name="paymentMethod" checked="">
+                                                <span class="btn-radio"></span>
+                                                No</label>
+                                        </div>
+
                                     </div>
+
+
+                                    <div class="cols">
+                                        <p class="text-2">Please contact me with more information about treatment options. My inquiry will remain confidential. * </p>
+                                    <div class=" radio-item collapsed" id="headingOne">
+                                        <label class="fw-6 text-3 form-check-label" for="creditCard-1">
+                                            <input type="checkbox" class="tf-radio check-payment" id="creditCard-1" name="paymentMethod" checked="">
+                                            <span class="btn-radio"></span>
+                                           </label>
+                                    </div>
+
+
                                 </div>
-                                <div class="col-md-5">
-                                    <div class="image-wrap wow fadeInRight effec-overlay" data-wow-duration="1000"
-                                        data-wow-delay="0s">
-                                        <img class="lazyload" data-src="images/w2.png"
-                                            src="images/w2.png" alt="">
-                                    </div>
+
+                                <div class="cols">
+                                    <p class="text-2">By checking this box, you consent to receive electronic marketing messages from EHN Canada. You can unsubscribe at any time. </p>
+                                <div class=" radio-item collapsed" id="headingOne">
+                                    <label class="fw-6 text-3 form-check-label" for="creditCard-1">
+                                        <input type="checkbox" class="tf-radio check-payment" id="creditCard-1" name="paymentMethod" checked="">
+                                        <span class="btn-radio"></span>
+                                       </label>
+                                </div>
+
+
+                            </div>
+                                       
+                                    
+                                   
+                                    <button type="submit" class="tf-btn style-default btn-color-secondary pd-40 w-full" id="submitBtn" >
+                                        <span>Submit</span>
+                                    </button>
+                                    </form>
                                 </div>
                             </div>
+                            </div>
+                           
                         </div>
                     </div>
-                </div> <!-- /.section-box-about -->
-    
-              
-            </div><!-- /.main-content -->
-    
+                </section>
+                <!-- section-check-out -->
+            </div>
+
      
-       <!-- #Footer -->
+        <!-- #Footer -->
         <?php include('inc/footer.php');?>
+        <!-- /#Footer -->
+    </div> <!-- ./wrapper -->
+
+    <!-- mobile-nav -->
     
+
     <!-- .open-search -->
     <div class="offcanvas offcanvas-top offcanvas-search" id="canvasSearch">
         <button class="btn-close-search" type="button" data-bs-dismiss="offcanvas" aria-label="Close">
@@ -131,9 +192,9 @@
             </path>
         </svg>
     </div> <!-- /.prograss -->
-
       <!-- Modal -->
-  
+
+
     <!-- Javascript -->
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -151,7 +212,7 @@
 
     <ul class="DeskFixed">
         <li>
-           <a class="Whatapp" href="to:7056671000">
+           <a class="Whatapp" href="#">
               <svg id="whatsapp" version="1.1" viewBox="0 0 52 52">
                  <path d="M26,0C11.663,0,0,11.663,0,26c0,4.891,1.359,9.639,3.937,13.762C2.91,43.36,1.055,50.166,1.035,50.237
                 c-0.096,0.352,0.007,0.728,0.27,0.981c0.263,0.253,0.643,0.343,0.989,0.237L12.6,48.285C16.637,50.717,21.26,52,26,52
@@ -169,7 +230,7 @@
                 c1.701,0,3.919-2.859,5.182-4.722c0.073,0.003,0.196,0.028,0.371,0.116c0.36,0.181,0.984,0.588,1.773,1.104
                 c1.042,0.681,2.426,1.585,4.06,2.522C40.644,37.09,38.57,40.701,30.648,39.511z"></path>
               </svg>
-              </a>
+           </a>
         </li>
         <li>
            <a class="mob" href="#">
@@ -198,8 +259,7 @@
                 c0.8,0,1.5-0.1,2.3-0.2C469.556,223.306,474.556,216.306,473.256,209.006z"></path>
               </svg>
            </a>
-        </li> 
-
+        </li>
      </ul>
 
      <div class="FixedCntct-sk">
@@ -262,12 +322,10 @@
         </ul>
      </div>
 
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
 <script type="text/javascript" src="<?=$baseUrl;?>/js/contact.js"></script>
-
-</bod>
+</body>
 
 
 </html>
